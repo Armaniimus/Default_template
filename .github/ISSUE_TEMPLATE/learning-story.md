@@ -1,8 +1,8 @@
 ---
-name: User-Story
-about: A userstory template
-title: AS A {user} I WANT {functionality}, SO THAT {reason}
-labels: User-Story
+name: Learning-Story
+about: A learning-story template
+title: AS A teammember I WANT {skill or knowledge}, SO THAT {reason}
+labels: Learning-Story
 assignees: Armaniimus
 
 ---

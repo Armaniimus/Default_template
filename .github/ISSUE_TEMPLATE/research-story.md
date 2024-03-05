@@ -1,8 +1,8 @@
 ---
-name: Enabler-Story
-about: A enablerstory template
-title: AS A developer I WANT {functionality}, SO THAT {reason}
-labels: Enabler-Story
+name: Research-Story
+about: A researchstory template
+title: AS team WE WANT {information}, SO THAT {reason}
+labels: Research-Story
 assignees: Armaniimus
 
 ---

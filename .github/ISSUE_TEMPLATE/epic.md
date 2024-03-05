@@ -1,7 +1,7 @@
 ---
 name: Epic
 about: A epic template
-title: ALS {gebruiker} WIL IK {functionaliteit}, ZODAT {reden}
+title: AS A {user} I WANT {functionality}, SO THAT {reason}
 labels: Epic
 assignees: Armaniimus
 
