@@ -6,11 +6,15 @@ labels: Enabler-Story
 assignees: Armaniimus
 
 ---
+## Description
+
+## Definition of ready (requirements in order to start)
+- [ ] requirement1
+- [ ] requirement2
 
 ## Definition of Done:
-- [ ] vereiste taak1
-- [ ] vereiste taak2
-- [ ] vereiste taak3
+- All tasks are completed.
 
-## Taken:
-- [ ] taak
+## Tasks:
+- [ ] required task1
+- [ ] required task2
