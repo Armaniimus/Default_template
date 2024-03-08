@@ -1,23 +1,21 @@
 ---
 name: Learning-Story
 about: A learning-story template
-title: AS A teammember I WANT {skill or knowledge}, SO THAT {reason}
+title: AS A developer I WANT {skill or knowledge}
 labels: Learning-Story
 assignees: Armaniimus
 
 ---
+## Description
+AS A developer I WANT {skill or knowledge}, SO THAT {reason}
 
-## Omschrijving:
-
-## Definition of Ready:
-- [ ] vereiste taak1
-- [ ] vereiste taak2
-- [ ] vereiste taak3
+## Definition of ready (requirements in order to start)
+- [ ] requirement1
+- [ ] requirement2
 
 ## Definition of Done:
-- [ ] vereiste taak1
-- [ ] vereiste taak2
-- [ ] vereiste taak3
+- All tasks are completed.
 
-## Taken:
-- [ ] taak
+## Tasks:
+- [ ] required task1
+- [ ] required task2
